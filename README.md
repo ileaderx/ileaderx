@@ -4,8 +4,10 @@ I'm Ward Alborom a Front-end Web Developer and Content Creator on Youtube.
 
 📫 Reach me out! 
 <p align="left">
-   <a href="https://twitter.com/ileaderx"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ileaderx?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@ileaderx"></a>
-   <a href="https://instagram.com/wb7_"><img alt="Twitter Follow" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://twitter.com/ileaderx"><img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+   <a href="https://instagram.com/wb7_"><img alt="Instagram Follow" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/ward-alborom-b3b059190/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
+   <a href="youtube.com/c/ileaderx" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Follow"></a>
  </p>
 
 <!--
