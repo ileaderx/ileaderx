@@ -11,6 +11,12 @@ I'm Ward Alborom a Front-end Web Developer and Content Creator on Youtube.
    <a href="mailto:i.leaderx@hotmail.com"><img alt="Instagram Follow" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </p>
  
+ - 🌱 I’m currently learning Web Design and development
+ - 📫 How to reach me: i.leaderx@hotmail.com 
+ - 😄 Pronouns: Ward, ileaderx, 沃得
+ - ⚡ Fun fact: I play games and watch anime often
+
+ 
  Top Technologies
  <p>
    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -31,7 +37,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
