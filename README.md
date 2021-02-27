@@ -6,7 +6,7 @@ I'm Ward Alborom a Front-end Web Developer and Content Creator on Youtube.
 <p align="left">
    <a href="https://twitter.com/ileaderx"><img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
    <a href="https://instagram.com/wb7_"><img alt="Instagram Follow" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a (src"https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" href="https://www.linkedin.com/in/braydon-coyer"></a>
+   <a src"https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" href="https://www.linkedin.com/in/braydon-coyer"></a>
    <a href="https://youtube.com/c/ileaderx" alt="Youtube Follow" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
  </p>
 
