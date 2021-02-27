@@ -9,8 +9,12 @@ I'm Ward Alborom a Front-end Web Developer and Content Creator on Youtube.
    <a href="https://www.linkedin.com/in/ward-alborom-b3b059190/"><img alt="Instagram Follow" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://youtube.com/c/ileaderx"><img alt="Instagram Follow" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="mailto:i.leaderx@hotmail.com"><img alt="Instagram Follow" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   
  </p>
+ 
+ Top Technologies
+ <p>
+   <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+</p>
 
 <!--
 **ileaderx/ileaderx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
