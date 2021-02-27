@@ -5,7 +5,7 @@ I'm Ward Alborom a Front-end Web Developer and Content Creator on Youtube.
 📫 Reach me out! 
 <p align="left">
    <a href="https://twitter.com/ileaderx"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ileaderx?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@ileaderx"></a>
-   [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/inst.svg" >](https://instagram.com/wb7_)
+   <a href="https://instagram.com/wb7_"><img alt="Twitter Follow" src="https://img.shields.io/instagram/follow/wb7_?style=for-the-badge&color=09f&labelColor=black&logo=instagram&label=@wb7_"></a>
  </p>
 
 <!--
