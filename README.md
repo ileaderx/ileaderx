@@ -3,6 +3,7 @@ I'm Ward Alborom a Front-end Web Developer and Content Creator on Youtube.
 
 
 📫 Reach me out! 
+<link rel="stylesheet" href="../css/social-circles.min.css">
 
 <a class="icon-twitter social-button color" href="http://twitter.com/username"></a>
 
