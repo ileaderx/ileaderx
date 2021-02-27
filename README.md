@@ -1,6 +1,7 @@
 ### Hi I'm Ward 👋
 I'm Ward Alborom a Front-end Web Developer and Content Creator on Youtube.
-- 📫 Reach me out: twitter.com/ileaderx
+📫 Reach me out! 
+<a href="https://camo.githubusercontent.com/12793f45bc4b41ac63e0c49d242786e2d9607e448479424126587a7dd9a8f22e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d404970656e797769732d3163613066313f7374796c653d666c6174266c6162656c436f6c6f723d316361306631266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f747769747465722e636f6d2f4970656e79776973">
 
 <!--
 **ileaderx/ileaderx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
