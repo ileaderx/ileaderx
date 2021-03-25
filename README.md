@@ -22,7 +22,7 @@ I'm Ward Alborom a Front-end Web Developer and Content Creator on Youtube.
    <a href="mailto:i.leaderx@hotmail.com">
       <img alt="Instagram Follow" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
-   <a href="mailto:i.leaderx@hotmail.com">
+   <a href="https://codepen.io/ileaderx">
       <img alt="Instagram Follow" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
    </a>
  </p>
