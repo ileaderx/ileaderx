@@ -27,9 +27,9 @@ I'm Ward Alborom a Front-end Web Developer and Content Creator on Youtube.
    </a>
  </p>
  
- - 🌱 I’m currently learning Web Design and development
+ - 🌱 I’m currently learning React Native
  - 📫 How to reach me: i.leaderx@hotmail.com 
- - 😄 Pronouns: Ward, ileaderx, 沃得
+ - 😄 Pronouns: He|Him
  - ⚡ Fun fact: I play games and watch anime often
 
  
@@ -58,6 +58,12 @@ I'm Ward Alborom a Front-end Web Developer and Content Creator on Youtube.
    </a>
    <a href="#">
       <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+   </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+   </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
    </a>
 </p>
 
