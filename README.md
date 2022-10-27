@@ -27,7 +27,9 @@ I'm Ward Alborom a Front-end Web Developer and Content Creator on Youtube.
    </a>
  </p>
  
- - 🌱 I’m currently learning React Native
+ - 🌱 I’m currently learning Nodejs
+ - 💬 Ask me about software engineering
+ - 😄 Pronouns: He/Him
  - 📫 How to reach me: i.leaderx@hotmail.com 
  - 😄 Pronouns: He|Him
  - ⚡ Fun fact: I play games and watch anime often
@@ -77,6 +79,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
