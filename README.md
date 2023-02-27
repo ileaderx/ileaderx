@@ -1,5 +1,5 @@
 ### Hi I'm Ward 👋
-I'm Ward Alborom a Front-end Web Developer and Content Creator on Youtube.
+I'm Ward Alborom a Full Stack (MERN) Web Developer and Content Creator on Youtube.
 
 
 📫 Reach me out! 
